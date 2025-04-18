@@ -1,0 +1,62 @@
+{
+  "prefixes": [
+    "Code", "Bug", "Stack", "Git", "Byte", "Pixel", "Syntax", "Debug", "Dev", "Null",
+    "Binary", "Crypto", "Data", "Tech", "Cyber", "Logic", "Neural", "Quantum", "Hash"
+  ],
+  "suffixes": [
+    "Ninja", "Master", "Guru", "Wizard", "Hacker", "Slayer", "Lord", "Knight", "Sage",
+    "Beast", "Pro", "King", "Queen", "Warrior", "Phoenix", "Dragon", "Ghost", "Legend"
+  ],
+  "numbers": [
+    "42", "404", "500", "1337", "777", "101", "404", "69", "420", "007"
+  ],
+  "titles": [
+    "Lord of Null Pointers",
+    "Master of Syntax Errors",
+    "Keeper of Legacy Code",
+    "Guardian of the Stack",
+    "Debugger of Infinite Loops",
+    "Commander of Console.log",
+    "Wizard of While True",
+    "Tamer of TypeError",
+    "Oracle of Object-Oriented",
+    "Champion of Clean Code"
+  ],
+  "skills": [
+    "Expert in Midnight Debugging",
+    "Professional Coffee-to-Code Converter",
+    "Stack Overflow Search Master",
+    "Bug Whisperer",
+    "Documentation Archaeologist",
+    "Git Conflict Negotiator",
+    "Semicolon Placement Specialist",
+    "Legacy Code Survival Expert",
+    "Tab vs Spaces Diplomat",
+    "Runtime Error Exorcist",
+    "Memory Leak Detective",
+    "Callback Hell Navigator",
+    "Regular Expression Sage",
+    "Cache Invalidation Guru",
+    "Whitespace Optimization Expert"
+  ],
+  "themes": [
+    {
+      "name": "Dark Mode",
+      "background": "#1a1a1a",
+      "text": "#00ff00",
+      "accent": "#0066ff"
+    },
+    {
+      "name": "Retro Pixel",
+      "background": "#000080",
+      "text": "#ff00ff",
+      "accent": "#00ffff"
+    },
+    {
+      "name": "Matrix",
+      "background": "#000000",
+      "text": "#00ff00",
+      "accent": "#003300"
+    }
+  ]
+} 

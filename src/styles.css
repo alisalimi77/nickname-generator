@@ -1,0 +1,56 @@
+/* Custom styles for the Nickname Generator */
+
+.retro-font {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.card {
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 255, 0, 0.2);
+}
+
+.matrix-bg {
+    background: linear-gradient(45deg, #000000, #001100);
+}
+
+.pixel-border {
+    box-shadow: 
+        0 0 0 2px #00ff00,
+        0 0 0 4px #000000,
+        0 0 10px rgba(0, 255, 0, 0.5);
+}
+
+.glow-text {
+    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
+}
+
+.animate-float {
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+}
+
+/* Theme-specific styles */
+.theme-dark-mode {
+    background: #1a1a1a;
+    color: #00ff00;
+}
+
+.theme-retro-pixel {
+    background: #000080;
+    color: #ff00ff;
+    image-rendering: pixelated;
+}
+
+.theme-matrix {
+    background: #000000;
+    color: #00ff00;
+} 
